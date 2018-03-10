@@ -1,3 +1,8 @@
+TBD: To be updated to allow solo mining with GetBlockTemplate
+
+
+
+
 ccminer
 =======
 
